@@ -17,4 +17,5 @@ function doubleNumber() {
     let result = number * 2;
 
     console.log("Удвоенное число: ", result);
+    console.log("Yes");
 }
